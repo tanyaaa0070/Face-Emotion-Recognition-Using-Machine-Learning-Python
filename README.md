@@ -126,4 +126,3 @@ If you find this project useful, please give it a star ⭐ on GitHub!
 
 ***
 
-This README is now ready to be directly copied into your GitHub repository for a professional and effective project presentation.
